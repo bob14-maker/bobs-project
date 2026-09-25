@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang=''nl''>
+ <head>
+  <meta charset=''utf-8''>
+  <title>mijn eerste site</title>
+</head>
+<body>
+<h1>hoi, ik ben thijs</h1>
+<p>mijn eerste Git-commit</p>
+</body>
+</html>
